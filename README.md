@@ -2,6 +2,8 @@
 
 Instead of looking for a pre-written accordion component, I just wrote a quick one in plain Javascript
 
+![Demo Accordion](Accordion-Example.gif)
+
 ```javascript
 export default function() {
   document.addEventListener('DOMContentLoaded', function () {
