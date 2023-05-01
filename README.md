@@ -2,7 +2,7 @@
 
 Instead of looking for a pre-written accordion component, I just wrote a quick one in plain Javascript
 
-![Demo Accordion](Accordion-Example.gif)
+![Demo Accordion](Example-Accordion.gif "Example Accordion")
 
 ```javascript
 export default function() {
